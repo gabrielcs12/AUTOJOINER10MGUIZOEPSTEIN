@@ -4,7 +4,7 @@ import re
 
 TOKEN = "MTM5OTIxOTY4ODM1NzIzNjgzNw.GcEQAg.x_waQe5z8W1x5scSnUycI6-cXBmxLkBt715B98"
 CANAL_ID = "1412641270274326528"
-WEBHOOK_URL = "https://autojojn1-10guizo.onrender.com/webhook"
+WEBHOOK_URL = "https://autojoiner10mguizoepstein.onrender.com/webhook"
 API_KEY = "key123"
 PLACE_ID = "109983668079237"
 
@@ -71,3 +71,4 @@ while True:
         print("Erro:", e)
 
     time.sleep(3)
+
